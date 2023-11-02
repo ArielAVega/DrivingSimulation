@@ -30,11 +30,11 @@ En este proyecto se crea un prototipo de videojuego en 3D de un simulador de un 
 
 ## Mecánicas
 
-:heavy_check_mark: `Mecánica 1:` La esfera se mueve en cualquier dirección según el sistema de locomoción del jugador.
+:heavy_check_mark: `Mecánica 1:` La vehículo se mueve hacia la izquierda o hacia la derecha según el sistema de locomoción del jugador.
 
-:heavy_check_mark: `Mecánica 2:` La esfera destruye los cubos giratorios al colionar con ellos.
+:heavy_check_mark: `Mecánica 2:` El vehículo puede chocar con las cajas de madera.
 
-:heavy_check_mark: `Mecánica 3:` Al impactar con un cubo giratorio la esfera acumula puntos.
+:heavy_check_mark: `Mecánica 3:` Al impactar con una caja el sistema de físicas lo afecta.
 
 ## Diseño del Juego
 
